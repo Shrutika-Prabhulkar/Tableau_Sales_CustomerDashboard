@@ -61,5 +61,5 @@ Top 10 Customers By Profit
 
  – Show additional information like rank, number of orders, current sales, current profit and the last order date.
 
- https://public.tableau.com/shared/FWP22J732?:display_count=n&:origin=viz_share_link
+ https://public.tableau.com/app/profile/shruti.s2220/viz/SalesCustomerDashboards_2024/SalesDashboard
  --------------------------------------------------------------------------------------
