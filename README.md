@@ -60,3 +60,6 @@ Top 10 Customers By Profit
  – Present the top 10 customers who have generated the highest profits for the company.
 
  – Show additional information like rank, number of orders, current sales, current profit and the last order date.
+
+ https://public.tableau.com/shared/FWP22J732?:display_count=n&:origin=viz_share_link
+ --------------------------------------------------------------------------------------
